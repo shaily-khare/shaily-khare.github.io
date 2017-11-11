@@ -1,0 +1,20 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color:transparent;
+	background-position:center;
+	overflow:auto;
+	position:relative;
+	overflow-style:auto;
+}
+
+.full {
+  background: url(DSC_0414-2_edit_min.jpg) no-repeat center center fixed; 
+
+/*  background:url(E:%5CPhotos_Collection%5CMypics%5CUntitled%20Export%5CDSC_2167.jpg)no-repeat center center fixed; 
+  background-color:; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
